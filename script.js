@@ -63,9 +63,9 @@ const setColumns = (async function() {
 
 //  setToday = (function() {
     
-    const today = new Date()
+   // const today = new Date()
 
-    columns.at(today.getDay() - 1).style.backgroundColor = "yellow";
+    // columns.at(today.getDay() - 1).style.backgroundColor = "yellow";
 })(); //
 
 
